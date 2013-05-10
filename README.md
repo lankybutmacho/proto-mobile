@@ -1,5 +1,3 @@
-<img align="right" src="http://f.cl.ly/items/21240p2l2W0R0M0K0Y0f/Screen%20Shot%202013-05-10%20at%2010.27.50%20AM.png" />
-
 # Proto Mobile
 
 Proto is a tiny framework for prototyping mobile interactions and animation using simple HTML and Javascript.
@@ -16,6 +14,8 @@ Proto is a tiny framework for prototyping mobile interactions and animation usin
 - jQuery, for setting up events and interactions.
 - Timeline.js, a simple class for creating time-based series of JS events.
 - Animate.css, a [great tool by Dan Eden](http://daneden.me/animate/) for quickly creating CSS animations.
+
+<img align="right" src="http://cl.ly/image/1R0e2M1Q0b3q/proto-mobile.png" />
 
 ## Usage
 
