@@ -1,3 +1,5 @@
+<div style="float: right;" /><img src="http://f.cl.ly/items/21240p2l2W0R0M0K0Y0f/Screen%20Shot%202013-05-10%20at%2010.27.50%20AM.png" /></div>
+
 # Proto Mobile
 
 Proto is a tiny framework for prototyping mobile interactions and animation using simple HTML and Javascript.
@@ -16,8 +18,6 @@ Proto is a tiny framework for prototyping mobile interactions and animation usin
 - Animate.css, a [great tool by Dan Eden](http://daneden.me/animate/) for quickly creating CSS animations.
 
 ## Usage
-
-<img src="http://f.cl.ly/items/21240p2l2W0R0M0K0Y0f/Screen%20Shot%202013-05-10%20at%2010.27.50%20AM.png" style="float: right;" />
 
 To get started, all you need to do is open index.html in your favorite editor and start putting stuff inside `<div id="container">`. I generally start by saving a screenshot or a mockup from Photoshop of the screen I'm working on to use as the "background", and then saving assets for any buttons or elements I want to make interactive or animated. The container is set up to display a 640x960 screen, so size your elements accordingly (i.e. for iOS prototypes, export as you would for a retina display).
 
