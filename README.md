@@ -15,9 +15,9 @@ Proto is a tiny framework for prototyping mobile interactions and animation usin
 - Timeline.js, a simple class for creating time-based series of JS events.
 - Animate.css, a [great tool by Dan Eden](http://daneden.me/animate/) for quickly creating CSS animations.
 
-<img align="right" src="http://cl.ly/image/1R0e2M1Q0b3q/proto-mobile.png" />
-
 ## Usage
+
+<img align="right" src="http://cl.ly/image/1R0e2M1Q0b3q/proto-mobile.png" />
 
 To get started, all you need to do is open index.html in your favorite editor and start putting stuff inside `<div id="container">`. I generally start by saving a screenshot or a mockup from Photoshop of the screen I'm working on to use as the "background", and then saving assets for any buttons or elements I want to make interactive or animated. The container is set up to display a 640x960 screen, so size your elements accordingly (i.e. for iOS prototypes, export as you would for a retina display).
 
