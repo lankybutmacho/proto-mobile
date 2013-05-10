@@ -1,4 +1,4 @@
-<div style="float: right;" /><img src="http://f.cl.ly/items/21240p2l2W0R0M0K0Y0f/Screen%20Shot%202013-05-10%20at%2010.27.50%20AM.png" /></div>
+<img align="right" src="http://f.cl.ly/items/21240p2l2W0R0M0K0Y0f/Screen%20Shot%202013-05-10%20at%2010.27.50%20AM.png" />
 
 # Proto Mobile
 
