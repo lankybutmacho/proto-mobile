@@ -8,9 +8,9 @@ html, body {
 #phone {
   background: url('../images/chrome/phone.png') no-repeat center;
   background-size: 758px 1626px;
-  height: 1096px;
+  height: 1136px;
   margin: -814px auto 0;
-  padding: 278px 56px 254px 64px;
+  padding: 238px 56px 254px 64px;
   position: relative;
   top: 50%;
   width: 640px;
