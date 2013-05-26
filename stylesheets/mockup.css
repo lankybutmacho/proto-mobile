@@ -21,6 +21,14 @@ body #phone #container {
   position: relative;
   width: 100%;
 }
+#reset {
+  cursor: pointer;
+  height: 140px;
+  left: 318px;
+  position: absolute;
+  top: 1412px;
+  width: 140px;
+}
 
 @media only screen and (max-device-width: 320px) {
   body #phone {
@@ -31,4 +39,5 @@ body #phone #container {
     width: 100%;
   }
   body #phone #container { overflow-y: visible; }
+  body #reset { display: none; }
 }
