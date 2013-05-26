@@ -53,7 +53,7 @@ If you want to trigger a sequence of events, use the included Timeline class. It
       // do stuff here!
     }, 0);
 
-The second argument to Timeline.add() is the number of milleseconds after the start of this timeline that you want the event to occur. For the first event, we'll start at 0. Then we can queue up a couple more events:
+The second argument to Timeline.add() is the number of milliseconds after the start of this timeline that you want the event to occur. For the first event, we'll start at 0. Then we can queue up a couple more events:
 
     myTimeline.add(function() {
       // do more stuff here!
@@ -70,6 +70,12 @@ Now, to kick it off just do this:
 More likely you'll want to start your timeline on some click event, like this:
 
     $('#myElement').click(myTimeline.start);
+
+### Previews on desktop
+
+You can just open index.html in your browser to preview your prototype. You may need to zoom out a bit to fit the phone mockup in your browser window.
+
+Clicking the home button on the phone mockup reloads the page.
 
 ### Previewing on mobile
 
