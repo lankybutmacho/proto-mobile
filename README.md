@@ -21,7 +21,7 @@ Proto is a tiny framework for prototyping mobile interactions and animation usin
 
 ## Usage
 
-<img align="right" src="http://cl.ly/image/1R0e2M1Q0b3q/proto-mobile.png" />
+<img align="right" src="http://cl.ly/image/46260f1G3w3X/Screen%20Shot%202013-05-26%20at%2010.41.37%20PM.png" />
 
 To get started, all you need to do is open index.html in your favorite editor and start putting stuff inside `<div id="container">`. I generally start by saving a screenshot or a mockup from Photoshop of the screen I'm working on to use as the "background", and then saving assets for any buttons or elements I want to make interactive or animated. The container is set up to display a 640x1136 screen, so size your elements accordingly (i.e. for iOS prototypes, export as you would for a retina display).
 
