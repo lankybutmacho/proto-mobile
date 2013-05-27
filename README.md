@@ -8,6 +8,10 @@ Proto is a tiny framework for prototyping mobile interactions and animation usin
 - View the same page in a mobile browser to get a feel for how interactions are working
 - Use the Timeline class to quickly put together sequences of events
 
+## Example
+
+[Here's a quick example](http://storage.matthewhealy.net/proto-mobile/demo) using the Foursquare check-in flow, from the home screen to selecting a venue (try clicking "Foursquare Kegerator" in the list), to the post-check-in screen. Try it both in your desktop browser and on your phone.
+
 ## What's included
 
 - `index.html` is a page that will render a preview of an iPhone in desktop browsers, and a container with no additional chrome in mobile browsers.
